@@ -1,0 +1,14 @@
+<Html>
+ <Head>
+  <meta name = "description" content = "Surprise pour bb"/>
+  <meta name = "Author" content = "Le King des ViKings" />
+  <Title> Ma princesse </Title>
+ </Head>
+ <Body style = "background: url(file:///C:/Users/maxim/Documents/heart-bokeh-background-vector-free-33926.jpg); background-size: 100%;">
+  <font size = 6.5><H1 align=middle ><u> Bon anniversaire ma princesse </u></H1></font>
+  <font size = 6><p align = middle><i> J'espère que tu vas passer un très bon anniversaire même si le corona fou un peu la merde, en tout cas sache que je t'aime d'amour vraiment beaucoup et j'espère qu'un jour tu seras à moi mdr </i></p>
+  </br> <img src="ccc1.png" height = 400 style= "display: block; margin-left: auto; margin-right: auto;" />
+    <p align = middle><i> Voili voilou, je sais que c’est pas fou, mais c’est 100% coder à la main, c’est pas fait avec un site, du coup c’est très compliqué de faire un bon truc déjà j’ai dû faire des recherches pour mettre des images mdr, bref encore bon anniversaire, t’es la meilleure des princesses  </i></p>
+  </font>
+ </Body>
+</Html>
